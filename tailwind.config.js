@@ -1,9 +1,12 @@
 // tailwind.config.js
 export default {
-  content: ["./index.html", "./src/**/*.{svelte,js,ts}"],  // Use 'content' instead of 'purge'
+  content: [
+    "./index.html", 
+    "./src/**/*.{svelte,js,ts}" // Adjusted to cover Svelte and JS/TS files
+  ],
   theme: {
-    extend: {},
+    extend: {}, // Extend theme here if needed
   },
   plugins: [],
-  darkMode: false,  // Optional, 'false' is the default
+  darkMode: 'media', // Optional: Can set to 'media' or 'class' if you want dark mode handling
 };
