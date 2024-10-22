@@ -1,0 +1,25 @@
+{
+  "name": "my-app",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "^3.0.2",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.47",
+    "svelte": "^4.2.12",
+    "tailwindcss": "^3.4.13",
+    "vite": "^5.2.0"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.6.0",
+    "framer-motion": "^11.11.8",
+    "svelte-motion": "^0.12.2",
+    "svelte-routing": "^2.13.0"
+  }
+}
