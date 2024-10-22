@@ -1,9 +1,9 @@
 <script>
-    import ServiceLine from "../../../public/Image/servicesLine.svg";
-    import docter from "../../../public/Image/docter.svg";
-    import docChinese from "../../../public/Image/docChinese.svg";
-    import docPakistan from "../../../public/Image/docPak.svg";
-    import docUs from "../../../public/Image/docUs.svg";
+    import ServiceLine from "../../../public/images/servicesLine.svg";
+    import docter from "../../../public/images/docter.svg";
+    import docChinese from "../../../public/images/docChinese.svg";
+    import docPakistan from "../../../public/images/docPak.svg";
+    import docUs from "../../../public/images/docUs.svg";
   </script>
   
   <main>

@@ -1,10 +1,10 @@
 <script>
   import { tweened } from 'svelte/motion';
   import { onMount } from 'svelte';
-  import ServiceLine from "../../../public/Image/servicesLine.svg";
-  import ServiceIcon from "../../../public/Image/serviceIcon.svg";
-  import MentalIcon from "../../../public/Image/MensIcons.svg";
-  import WorkIcon from "../../../public/Image/workIcon.svg";
+  import ServiceLine from "../../../public/images/servicesLine.svg";
+  import ServiceIcon from "../../../public/images/serviceIcon.svg";
+  import MentalIcon from "../../../public/images/MensIcons.svg";
+  import WorkIcon from "../../../public/images/workIcon.svg";
 
   // Set opacity for sections to animate on scroll
   let opacity = tweened(0, { duration: 1000 });

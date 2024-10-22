@@ -1,5 +1,5 @@
 <script>
-  import ServiceLine from "../../../public/Image/servicesLine.svg";
+  import ServiceLine from "../../../public/images/servicesLine.svg";
   let activeIndex = null;
 
   // Function to toggle the accordion

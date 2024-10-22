@@ -1,9 +1,9 @@
 <script>
-    import Logo from "../../../public/Image/Logo.svg";
-    import fb from "../../../public/Image/fb.svg";
-    import twitter from "../../../public/Image/twitter.svg";
-    import ig from "../../../public/Image/ig.svg";
-    import linkdin from "../../../public/Image/linkdn.svg";
+    import Logo from "../../../public/images/Logo.svg";
+    import fb from "../../../public/images/fb.svg";
+    import twitter from "../../../public/images/twitter.svg";
+    import ig from "../../../public/images/ig.svg";
+    import linkdin from "../../../public/images/linkdn.svg";
 </script>
 
 <main>

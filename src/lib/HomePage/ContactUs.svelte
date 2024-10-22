@@ -1,6 +1,6 @@
 <script>
-  // import ServiceLine from "../../../public/Image/servicesLine.svg";
-  import map from "../../../public/Image/map.svg";
+  import ServiceLine from "../../../public/images/servicesLine.svg";
+  import map from "../../../public/images/map.svg";
   
   // Import FontAwesome styles
   import "@fortawesome/fontawesome-free/css/all.min.css";
@@ -10,7 +10,7 @@
   <!-- Header Section -->
   <div class="flex flex-col items-center justify-center h-[30vh] text-center p-4">
     <h2 class="text-4xl md:text-5xl font-bold mb-2 text-gray-800">Contact Us</h2>
-    <img src={map} alt="Service Line" class="w-[200px] sm:w-[250px] lg:w-[300px]" />
+    <img src={ServiceLine} alt="Service Line" class="w-[200px] sm:w-[250px] lg:w-[300px]" />
   </div>
 
   <!-- Contact Details Section -->

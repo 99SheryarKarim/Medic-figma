@@ -1,7 +1,7 @@
 <script>
-  import logo from "../../../../public/Image/Logo.svg";
-  import ServicesLine from "../../../../public/Image/servicesLine.svg";
-  import researcher from "../../../../public/Image/researcher.svg";
+  import logo from "../../../../public/images/Logo.svg";
+  import ServicesLine from "../../../../public/images/servicesLine.svg";
+  import researcher from "../../../../public/images/researcher.svg";
   import Footer from "../Footer.svelte";
 </script>
 

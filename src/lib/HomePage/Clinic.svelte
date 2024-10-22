@@ -1,8 +1,8 @@
 <script>
-  import ServiceLine from "../../../public/Image/servicesLine.svg";
-  import OP from "../../../public/Image/OP.svg";
-  import Bbybrn from "../../../public/Image/BbyBrn.svg";
-  import Teaching from "../../../public/Image/Teaching.svg";
+  import ServiceLine from "../../../public/images/servicesLine.svg";
+  import OP from "../../../public/images/OP.svg";
+  import Bbybrn from "../../../public/images/BbyBrn.svg";
+  import Teaching from "../../../public/images/Teaching.svg";
 </script>
 
 <main>

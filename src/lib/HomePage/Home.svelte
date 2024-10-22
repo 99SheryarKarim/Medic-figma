@@ -1,5 +1,5 @@
 <script>
-    import logo from "../../../public/Image/Logo.svg";
+    import logo from "../../../public/images/Logo.svg";
     import Services from "../HomePage/Services.svelte";
     import Clinic from "../HomePage/Clinic.svelte";
     import Team from "../HomePage/Team.svelte";
@@ -74,7 +74,7 @@
   
   <style>
     #mainImage {
-      background-image: url("/Image/image%2013@2x.png");
+      background-image: url("/images/images%2013@2x.png");
       background-repeat: no-repeat; 
       background-size: cover; 
       background-position: center; 

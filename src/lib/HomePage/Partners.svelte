@@ -1,8 +1,8 @@
 <script>
-    import ServiceLine from "../../../public/Image/servicesLine.svg";
-    import Glossy from "../../../public/Image/Glossy.svg";
-    import Invert from "../../../public/Image/Invert.svg";
-    import Proline from "../../../public/Image/ProLine.svg";
+    import ServiceLine from "../../../public/images/servicesLine.svg";
+    import Glossy from "../../../public/images/Glossy.svg";
+    import Invert from "../../../public/images/Invert.svg";
+    import Proline from "../../../public/images/ProLine.svg";
   </script>
   
   <main class="mx-auto  px-4 max-w-7xl">
