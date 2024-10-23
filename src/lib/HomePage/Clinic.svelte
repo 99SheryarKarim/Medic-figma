@@ -19,19 +19,16 @@
 <!-- Icons Section -->
 <div class="w-full h-auto gap-4 md:gap-8 flex flex-wrap justify-center items-center p-4 bg-[#F4F8FF]">
   <!-- Each icon container now has flex properties to avoid overlap -->
- <!-- Example in Clinic.svelte -->
-<div class="icon-container flex justify-center items-center w-1/2 sm:w-1/3 md:w-1/4 p-4">
-  <img src={OP} alt="Operational" class="icon-image" />
+  <div class="icon-container flex justify-center items-center w-1/2 sm:w-1/3 md:w-1/4 p-4">
+    <img src={OP} alt="OP Image" class="icon-image" />
+  </div>
+  <div class="icon-container flex justify-center items-center w-1/2 sm:w-1/3 md:w-1/4 p-4">
+    <img src={Bbybrn} alt="Baby Born Image" class="icon-image" />
+  </div>
+  <div class="icon-container flex justify-center items-center w-1/2 sm:w-1/3 md:w-1/4 p-4">
+    <img src={Teaching} alt="Teaching Image" class="icon-image" />
+  </div>
 </div>
-
-<div class="icon-container flex justify-center items-center w-1/2 sm:w-1/3 md:w-1/4 p-4">
-  <img src={Bbybrn} alt="Baby Born" class="icon-image" />
-</div>
-
-<div class="icon-container flex justify-center items-center w-1/2 sm:w-1/3 md:w-1/4 p-4">
-  <img src={Teaching} alt="Teaching" class="icon-image" />
-</div>
-
 </main>
 
 <style>
