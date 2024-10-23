@@ -41,7 +41,7 @@
   <!-- Services Cards Section with Scroll Fade-In -->
   <div class="w-full flex justify-center gap-9 p-4 mb-[100px] h-[230px] flex-wrap" style="opacity: {$opacity}">
     <!-- First Card -->
-    <div class="w-full sm:w-[350px] h-auto bg-[#F4F8FF] border rounded-lg p-6 flex flex-col items-center mb-4">
+    <div class="w-full sm:w-[420px] h-auto  bg-[#F4F8FF] border rounded-lg p-6 flex flex-col items-center mb-4">
       <div class="w-16 h-16 rounded-full flex items-center justify-center mb-4">
         <img src={ServiceIcon} alt="Service Icon" />
       </div>
@@ -51,7 +51,7 @@
     </div>
 
     <!-- Second Card -->
-    <div class="w-full sm:w-[350px] h-auto bg-[#F4F8FF] border rounded-lg p-6 flex flex-col items-center mb-4">
+    <div class="w-full sm:w-[420px] h-auto sm:h-[350px]  bg-[#F4F8FF] border rounded-lg p-6 flex flex-col items-center mb-4">
       <div class="w-16 h-16 rounded-full flex items-center justify-center mb-4">
         <img src={MentalIcon} alt="Mental Icon" />
       </div>
@@ -61,7 +61,7 @@
     </div>
 
     <!-- Third Card -->
-    <div class="w-full sm:w-[350px] h-auto bg-[#F4F8FF] border rounded-lg p-6 flex flex-col items-center mb-4">
+    <div class="w-full sm:w-[420px] h-auto sm:h-[350px]  bg-[#F4F8FF] border rounded-lg p-6 flex flex-col items-center mb-4">
       <div class="w-16 h-16 rounded-full flex items-center justify-center mb-4">
         <img src={WorkIcon} alt="Work Icon" />
       </div>
@@ -70,11 +70,13 @@
       <button class="border border-blue-600 text-black py-2 px-4 rounded-lg hover:bg-blue-200">Learn More</button>
     </div>
   </div>
+  <br>
+  <br>
 
   <!-- Second Row of Cards with Adjusted Gap -->
   <div class="w-full flex justify-center gap-9 p-4 mb-[90px] flex-wrap" style="opacity: {$opacity}">
     <!-- First Card -->
-    <div class="w-full sm:w-[350px] h-auto bg-[#F4F8FF] border rounded-lg p-6 flex flex-col items-center mb-4">
+    <div class="w-full sm:w-[420px]  sm:h-[350px] h-auto bg-[#F4F8FF] border rounded-lg p-6 flex flex-col items-center mb-4">
       <div class="w-16 h-16 rounded-full flex items-center justify-center mb-4">
         <img src={ServiceIcon} alt="Service Icon" />
       </div>
@@ -84,7 +86,7 @@
     </div>
 
     <!-- Second Card -->
-    <div class="w-full sm:w-[350px] h-auto bg-[#F4F8FF] border rounded-lg p-6 flex flex-col items-center mb-4">
+    <div class="w-full sm:w-[420px] h-auto bg-[#F4F8FF] border rounded-lg p-6 flex flex-col items-center mb-4">
       <div class="w-16 h-16 rounded-full flex items-center justify-center mb-4">
         <img src={MentalIcon} alt="Mental Icon" />
       </div>
@@ -94,7 +96,7 @@
     </div>
 
     <!-- Third Card -->
-    <div class="w-full sm:w-[350px] h-auto bg-[#F4F8FF] border rounded-lg p-6 flex flex-col items-center mb-4">
+    <div class="w-full sm:w-[420px] h-auto bg-[#F4F8FF] border rounded-lg p-6 flex flex-col items-center mb-4">
       <div class="w-16 h-16 rounded-full flex items-center justify-center mb-4">
         <img src={WorkIcon} alt="Work Icon" />
       </div>
