@@ -50,7 +50,7 @@
         </div>
       </div>
       <div class="flex justify-center items-center md:w-1/3">
-        <img class="mt-14 w-[200px] md:w-auto" src={researcher} alt="Researcher">
+        <img class="mt-14 w-[200px] md:w-auto"  src={researcher} alt="Researcher">
       </div>
     </section>
   </div>

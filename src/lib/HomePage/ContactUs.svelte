@@ -1,6 +1,6 @@
 <script>
   import ServiceLine from "../../../public/images/servicesLine.svg";
-  import map from "../../../public/images/map.svg";
+  import map from "../../../public/images/Map.svg";
   
   // Import FontAwesome styles
   import "@fortawesome/fontawesome-free/css/all.min.css";
@@ -45,7 +45,6 @@
   </div>
 </main>
 
-<!-- Svelte Scoped CSS -->
 <style>
   h2 {
     color: #333; /* Professional dark gray color for heading */
